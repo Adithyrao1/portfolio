@@ -1,0 +1,21 @@
+.logo {
+    border-radius: 30px; /* Adjust the value for more or less rounding */
+    transition: box-shadow 0.3s ease; /* Smooth transition for the glow effect */
+    height: 4rem;
+    width: 4rem;
+  }
+  
+  .logo:hover {
+    box-shadow: 0 0 15px white; /* White glow effect */
+  }
+
+.skill:hover {
+  transition: box-shadow 0.5s ease;
+  box-shadow: 0 0 15px #b85ee2; 
+}
+
+.cardimg {
+  height: 20rem;
+  width: 30rem;
+}
+  
